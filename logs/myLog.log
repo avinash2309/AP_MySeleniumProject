@@ -1,0 +1,75 @@
+[INFO ] 2025-01-04 00:38:12.204 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 00:38:13.647 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 00:38:13.927 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 00:38:14.027 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 00:38:15.123 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 00:38:15.183 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 00:38:16.647 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 00:38:17.549 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 00:38:17.673 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 00:38:17.776 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 00:38:18.681 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 00:38:18.746 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 00:38:26.729 [main] MyStore - 
+********Test Case Search Product Started*******
+[INFO ] 2025-01-04 00:38:30.802 [main] MyStore - Verify - Product Search
+[INFO ] 2025-01-04 01:04:20.001 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:04:21.596 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:04:21.916 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:04:22.134 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:04:23.509 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:04:23.594 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:04:24.881 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:04:25.927 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:04:26.024 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:04:26.200 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:04:27.367 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:04:27.421 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:04:36.609 [main] MyStore - 
+********Test Case Search Product Started*******
+[INFO ] 2025-01-04 01:04:40.865 [main] MyStore - Verify - Product Search
+[INFO ] 2025-01-04 01:05:25.506 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:05:29.774 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:05:29.955 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:05:30.087 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:05:31.351 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:05:31.394 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:05:32.538 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:05:33.256 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:05:33.407 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:05:33.520 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:05:34.511 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:05:34.549 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:05:38.473 [main] MyStore - 
+********Test Case Search Product Started*******
+[INFO ] 2025-01-04 01:05:47.300 [main] MyStore - Verify - Product Search
+[INFO ] 2025-01-04 01:13:30.003 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:13:31.284 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:13:31.482 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:13:31.638 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:13:32.894 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:13:32.978 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:13:34.146 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 01:13:35.108 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:13:35.255 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 01:13:35.387 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 01:13:36.756 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 01:13:36.795 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 01:13:45.348 [main] MyStore - 
+********Test Case Search Product Started*******
+[INFO ] 2025-01-04 01:13:49.303 [main] MyStore - Verify - Product Search
+[INFO ] 2025-01-04 13:16:40.967 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 13:16:42.314 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 13:16:42.458 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 13:16:42.558 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 13:16:43.929 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 13:16:43.974 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 13:16:45.311 [main] MyStore - Verify Login Test Execution started
+[INFO ] 2025-01-04 13:16:46.168 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 13:16:46.278 [main] MyStore - Enter Email Address
+[INFO ] 2025-01-04 13:16:46.403 [main] MyStore - Enter Password
+[INFO ] 2025-01-04 13:16:47.340 [main] MyStore - Click on Sign in Button
+[INFO ] 2025-01-04 13:16:47.367 [main] MyStore - Verify Login - Passed
+[INFO ] 2025-01-04 13:16:55.905 [main] MyStore - 
+********Test Case Search Product Started*******
+[INFO ] 2025-01-04 13:16:59.825 [main] MyStore - Verify - Product Search
